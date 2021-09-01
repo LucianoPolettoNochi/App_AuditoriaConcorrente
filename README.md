@@ -13,10 +13,27 @@ Packages:
   * dio           - A powerful Http client for Dart [https://pub.dev/packages/dio]
   * smart_select  - Easily convert your usual single/multiple select or dropdown into page [https://pub.dev/packages/smart_select]
 
+# Aplicativo v1.0.0
+* Versão inicial do Aplicativo
+* Login integrado com API
+* Sincronização de Internações de 3 Hospitais simultaneamente via API
+* Gravação de Dados offline, com integração automatica quando reconhecida Rede de Conexão
+* Filtros de Internação
+* Auditoria de Enfermagem e Nutrição  
+
+# Aplicativo v1.5.3
+* Atendimento Médico
+* Melhorias nas Integrações com a API
+* Serviço de envio de e-mails (via OracleDB)
+* Possibilidade de gravar Rascunho nas Auditorias
+
+# Aplicativo v1.6.0 - O que vem por ai!
+
+
 # Estrutura de Projeto
 ![image](https://user-images.githubusercontent.com/73490525/131494580-a3af8840-3e5a-4edf-8ee6-47fe07622725.png)
 
-# Aplicativo v1.5.3
+# Aplicativo GIF
 ![audConcorrente153](https://user-images.githubusercontent.com/73490525/131497914-5a01a658-f28a-46f2-af9b-12f2b3b4dfb8.gif)
 
 
