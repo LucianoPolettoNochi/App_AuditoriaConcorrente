@@ -27,7 +27,14 @@ Packages:
 * Serviço de envio de e-mails (via OracleDB)
 * Possibilidade de gravar Rascunho nas Auditorias
 
-# Aplicativo v1.6.0 - O que vem por ai!
+# Aplicativo v1.7.5
+* Novo Modelo de integração Censo Diario
+1)	Ordenação por Setor/Unidade
+2)	Melhorado o Layout dos Filtros de internação
+3)	SD#92838 - [Aud. Concorrente] - Caso de Altas Administrativas
+4)	Situação da Autorização (Pendente, Auditada e Atrasada)
+5)	Melhorias de desempenho do aplicativo
+
 
 
 # Estrutura de Projeto
